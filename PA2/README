@@ -1,0 +1,24 @@
+1. Perhaps the biggest problem that I had with the project was when I was
+developing the boolean function to compare the authors' last names. I had 
+initially declared it in the .cpp file, but I found that it didn't work. 
+Upon debugging, I found that it would always return "0" no matter what the
+inputs were. 
+
+Another big issue I had was with ther servers sometime overnight on Tuesday. I
+went to work on the project on Wednesday, but found that all of my project
+files had been deleted, as well as the entire directory itself.
+
+2. Before class on Monday, I heard people saying that they had the same issue
+with their function not working. Someone said that they just did it in their
+.h file, and it worked. I took this advice, and it began to work correctly. I'm 
+not really sure how or why it worked then.
+
+As for the issue of the deleted project, I had a massive panic attack, then one
+of my friends told me about the file recovery process that the CompSci
+department has. I was able to go in and retrieve my files with relative ease and
+contiue working.
+
+3. I enjoyed this project a lot more than PA1, mostly because I actually
+understood most of what I was doing. The instructions were very well laid out
+with just enough information to help me when I got stuck with what to do next.
+

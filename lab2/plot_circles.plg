@@ -1,0 +1,7 @@
+if (!exists("circlefile")) circlefile='circles.dat'
+set title "Circles"
+set xlabel "x"
+set ylabel "y"
+set style fill transparent solid 0.2 noborder
+plot circlefile w circles
+pause -1 "Hit any key to continue"

@@ -1,0 +1,8 @@
+if (!exists("circlefile")) circlefile='circles.dat'
+set title "Circles + Centroid"
+set xlabel "x"
+set ylabel "y"
+set style fill transparent solid 0.2 noborder
+plot circlefile w circles, \
+     "centroid.dat" w points pointsize 3 pointtype 7
+pause -1 "Hit any key to continue"
